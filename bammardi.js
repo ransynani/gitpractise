@@ -1,0 +1,1 @@
+let come=document.getElementsByClassName("college").innerhtml="better college for the price"
